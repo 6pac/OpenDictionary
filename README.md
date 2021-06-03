@@ -4,14 +4,14 @@ Welcome to OpenDictionary, a modern, highly configurable and user friendly open 
 
 There's a lot going on at the moment, and the materials here are somewhat incomplete. This is a guide to where things are, and where things are up to.
 
-##Materials
+## Materials
 
 [Media Review](MediaReview.md) - what's out there, and how it looks. 
 
 Once this is up to a basic standard we'll approach people for permission to put contact details up. 
 You are welcome to contribute to the page. It's a lot better to submit proposed changes in writing (which makes them easy to apply), rather than make general suggestions. Since this is GitHub, you can edit the page and it will submit a pull request with your changes. This can be rolled back or further edited by the page maintainers.
 
-##Activity
+## Activity
 
 The OpenDictionary is actively being developed by Ben McIntyre (@6pac email.ben.mcintyre@gmail.com). 
 Dr Ruth Singer at the University of Melbourne is using it to build a Kunbarlang and Mawng dictionary (Arnhem Land languages).
