@@ -12,8 +12,7 @@ Contact: Ben McIntyre email.ben.mcintyre@gmail.com
 | | [Webonary](https://www.webonary.org/)  |  Offers automated upload of language dictionary files to a very basic web dictionary. They have a page conparing them to other projects [here](https://www.webonary.org/comparisons/). LIFT XML is considered the new standard, and it [is recommended](https://www.webonary.org/about-webonary/) (under Data Formats Supported) to convert to this format for maximum cross-compatibility using [SOLID](https://www.webonary.org/about-webonary/) and Lexique Pro or preferably Flex.|
 |  | [The LIFT Specification](https://github.com/sillsdev/lift-standard) | LIFT=Lexicon Markup Language. This link is strictly for  XML wonks. The PDF files give good exmples. |
 | Stanford University  | [Kirrkirr](https://nlp.stanford.edu/kirrkirr/)   | Kirrkirr is a desktop (*not* web based) dictonary tool, however is is quite sophisticated in its viewing, offering media viewing, word games, and a visual network diagram showing word relationships. In order to convert dictionaries to work with Kirrkirr, they need to be converted to XML format. The format is much more flexible than LIFT, but it is still not for the faint hearted. I would estimate several weeks of work at least, by someone not afraid to tackle the world of XML, to convert a reasonable sized dictionary. |
-
-
+| Memrise |  [Memrise](https://www.memrise.com/) | Commercial app for language learning. You can create your own course: https://memrise.zendesk.com/hc/en-us/categories/360003072498-Course-Creation |
 
 ### <a name="SIL"></a>Summer Intitute of Linguistics (SIL)
 
