@@ -9,7 +9,9 @@ There's a lot going on at the moment, and the materials here are somewhat incomp
 [Media Review](MediaReview.md) - what's out there, and how it looks. 
 
 Once this is up to a basic standard we'll approach people for permission to put contact details up. 
-You are welcome to contribute to the page. It's a lot better to submit proposed changes in writing (which makes them easy to apply), rather than make general suggestions. Since this is GitHub, you can edit the page and it will submit a pull request with your changes. This can be rolled back or further edited by the page maintainers.
+You are welcome to contribute to the page.  
+It's a lot better to submit proposed changes in writing (which makes them easy to apply), rather than make general suggestions.  
+Since this is GitHub, the preferred method is to edit the page and it will submit a pull request with your changes. This can be rolled back or subsequently modified by the page maintainers.
 
 ## Activity
 
