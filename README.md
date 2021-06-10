@@ -17,7 +17,7 @@ Since this is GitHub, the preferred method is to edit the page and it will submi
 
 The OpenDictionary is actively being developed by Ben McIntyre (@6pac email.ben.mcintyre@gmail.com). 
 Dr Ruth Singer at the University of Melbourne is using it to build a Kunbarlang and Mawng dictionary (Arnhem Land languages).
-Dr Margaret Carew also used the tool at an easrlier stage of development to build a Djinang/Wurlaki dictionary.
+Dr Margaret Carew also used the tool at an earlier stage of development to build a Djinang/Wurlaki dictionary.
 
 The road map at present is:
 1) work on media review
