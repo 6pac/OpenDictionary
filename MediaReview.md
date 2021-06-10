@@ -3,6 +3,8 @@
 Created: June 2021 
 Contact: Ben McIntyre email.ben.mcintyre@gmail.com
 
+You are welcome to submit comments and corrections. Please submit any new information in writing as per format below, so it can just be added. If you are familiar with GitHub workflows, you can fork this repository, edit it and submit a pull request.
+
 | Organisation       | Product    | Type | Notes |
 | -------------           | -------------  | ---- | --------                       |
 |  SIL           |   Summer Intitute of Linguistics (SIL) |  |  SIL have  nothing less than breathtaking [range of tools](https://software.sil.org/products/), and have produced all the major standard linguistic tools. Font/script support, audio cataloguing support, advice and support for language work, it's all there. See below for specific lexographic tools. |
