@@ -22,3 +22,4 @@ Contact: Ben McIntyre email.ben.mcintyre@gmail.com
 | Living Languages | [Learners Template](https://www.livinglanguages.org.au/resources) | Google Doc | Template used as a guide for creating a language learning course | 
 | Charles Darwin University | [Digital Language Shell](https://language-shell.cdu.edu.au/) | Web based | Template for creating an online language learning course, based on their Wordpress templates. |
 | Relational Lexicography | [RelLex](dictionaries.arts.ubc.ca) | Research Project | Survey covering peoples experiences in creating dictionaries. Tools used, roles, challenges. May publish a list of Open Source Tools soon. |
+| First Voices | [First Voices](https://www.firstvoices.com/) | Web based, can export to Mobile | Very simple dictionary creation. Export dictionary to mobile app with assistance. |
